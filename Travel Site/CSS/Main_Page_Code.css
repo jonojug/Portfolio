@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+
+	body{
+		width: 2400px;
+			height: 1400px;
+				float: left;
+					border-style:solid;
+						border-color: black;
+							border-width: thick;
+								margin-left: 60px;
+			
+		  }
+
+
+	#conatainer{
+		width: 2400px;
+			height: 1500px;
+				float: left;
+					border-style: dashed;
+						border-color: black;
+							border-width: medium	
+								
+				}
+
+
+	header{
+		float: left;
+			width: 1250px;
+				height: 405px;	
+					margin-left: 575px;
+						margin-top: 10px;
+							border-style: solid;
+								border-width: thick;
+									border-color: black;
+									
+	   	}
+
+	
+	aside{
+		float: left;
+			width: 2000px;
+				height: 500px;
+					margin-left: 200px;
+						margin-top: 200px;
+							border-style: solid;
+								border-width: thick;
+									border-color:black;
+										background:#000000
+						
+		}
+
+
+	section{
+		float: left;
+			width: 1800px;
+				height: 450px;
+					margin-left: 100px;
+						margin-top: 25px;
+							
+		}
+
+
+	.float{
+		float: left;
+			margin-left: 75px;
+				margin-top: 25px;
+		
+		}
+
+
+
+

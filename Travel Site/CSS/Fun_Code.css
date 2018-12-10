@@ -1,0 +1,138 @@
+@charset "utf-8";
+/* CSS Document */
+
+	body{
+		width: 2400px;
+			height: 1800px;
+				float: left;
+					border-style: solid;
+						border-color: black;
+							border-width: thick;
+								margin-left: 60px;
+
+		}
+
+
+	#container{
+		width: 2400px;
+			height: 1800px;
+				float: left;
+		
+			}
+
+
+	aside{
+		width: 2000px;
+			height: 600px;
+				float: left;
+					border-style: solid;
+						border-color: black;
+							border-width: thick;
+		
+		}
+
+
+	section{
+		width: 2000px;
+			height: 600px;
+				float: left;
+					border-style: solid;
+						border-color: black;
+							border-width: thick;
+	
+			}
+
+
+	.float1{
+		float: left;
+			margin-left: 200px;
+				margin-top: 100px;
+	
+		}
+
+	h1{
+		font-size: 50px;
+			font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	
+	}
+
+	.float2{
+		float: left;
+			margin-left: 200px;
+				margin-top: 200px;
+	
+			}
+
+	p{
+		font-size: 30px;
+		
+	}
+
+	.button{
+		width:100px;
+			height: 40px;
+				background-color: green;
+					cursor: pointer;
+						margin-top: 100px;
+							color:aliceblue;
+								font-size: 15px;
+			}
+
+	
+	.button:hover{
+		background-color: #004C00;
+		
+				}
+
+	.button1{
+		width: 100px;
+			height: 40px;
+				background-color: crimson;
+					cursor: pointer;
+						margin-top: 100px;
+							color:aliceblue;
+								font-size: 15px;
+			}
+
+	.button1:hover{
+		background-color:#870C24;
+		
+				}
+
+	.button2{
+		width: 100px;
+			height: 40px;
+				background-color:#3C65B5;
+					cursor: pointer;
+						margin-top: 100px;
+							color:aliceblue;
+								font-size: 15px;	
+			}
+
+	.button2:hover{
+		background-color:#233B6B;
+	
+				}
+
+
+	.button3{
+		width: 100px;
+			height: 40px;
+				background-color:#821EC4;
+					cursor: pointer;
+						margin-top: 100px;
+							color:aliceblue;
+								font-size: 15px;	
+			}
+
+	.button3:hover{
+		background-color:#3E0E5D;
+	
+				}
+
+
+
+
+
+
+
