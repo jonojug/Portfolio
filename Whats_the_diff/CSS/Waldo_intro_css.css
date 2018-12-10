@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container{
+	height: 1100px;
+		width: 2550px;
+
+}
+
+h1{
+	color: aliceblue;
+	
+}
+map{
+	position: absolute
+}

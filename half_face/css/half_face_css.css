@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#container{
+	width: 2525px;
+		height: 1400px;
+			float: left;
+	
+}		 
+
+
+aside{
+	width: 1800px;
+		height: 1000px;
+			margin-left: 550px;
+				border-color: white;
+					float: left;
+						margin-top: 300px;
+	
+}
+
+body{
+	background:url(../../photoshop/try_it.png);
+		width: 2525px;
+			height: 1400px;
+				background-repeat: no-repeat
+}
+
+.float{
+	margin-left: 350px;
+		margin-top: 50px;
+			float: left;
+	
+}
+
+.float2{
+	margin-left:250px;
+		margin-top: 50px;
+			float: left;
+	
+}
+
+.float3{
+	margin-left: 180px;
+		margin-top: 100px;
+			float: left;
+	
+}

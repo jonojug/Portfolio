@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: black;
+		width: 2525px;
+			height: 1300px;
+}
+
+#toptop{
+	
+	color:white;
+	
+	
+}
+
+
+#container{
+	width: 2500px;
+		height: 1300px;
+			float: left;
+				margin-top: 50px;
+					margin-left: 13px;
+}
+
+
+aside{
+	float: left;
+		width: 2000px;
+			height: 900px;
+				margin-top: 50px;
+					margin-left: 250px;
+						color: aliceblue;
+}
+
+.float{
+	float: left;
+		margin-left: 80px;
+			margin-top: 20px;
+				
+	
+}
+
+p{
+	color: white;
+		margin: 0px;
+			font-size: 30px;
+				font-family:"league-gothic";
+}
+
+
+.button {
+    background-color: #4CAF50; 
+   		border: none;
+    		color: white;
+    			padding: 16px 32px;
+   					 text-align: center;
+   						 text-decoration: none;
+    						display: inline-block;
+   								 font-size: 16px;
+   									 margin: 4px 2px;
+   										 -webkit-transition-duration: 0.4s; 
+   												 transition-duration: 0.4s;
+  													  cursor: pointer;
+															width: 100%;
+																margin-top: 250px;
+																
+}
+
+.button1 {
+    background-color: black; 
+    	color: white; 
+    		border: 2px solid #FFFFFF;
+				
+}
+
+.button1:hover {
+    background-color: white;
+   		 color: black;
+}
